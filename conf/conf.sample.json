@@ -1,0 +1,9 @@
+{
+    "libs": {
+        "openlayers" : "https://cdnjs.cloudflare.com/ajax/libs/openlayers/2.12/OpenLayers.min.js",
+        "jquery" : "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js",
+        "jquery_mobile_js" : "https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.1/jquery.mobile.min.js",
+        "jquery_mobile_css" : "https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.1/jquery.mobile.min.css"
+    },
+    "debug" : 0
+}
